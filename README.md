@@ -80,14 +80,15 @@ It writes figures to `figures/` and Tableau files to `tableau-pack/`.
 
 ## Google Colab
 
-Colab badge placeholder: TODO: add Colab URL after GitHub publication
+[Open the notebook in Google Colab](https://colab.research.google.com/github/frederickmendez/HousePricePrediction/blob/main/notebooks/house_price_prediction.ipynb)
 
-Before the GitHub repository exists, upload both:
+The notebook is ready to run from GitHub. It first checks for the local dataset file. If the file is not available, it can download the CSV from the repository raw link:
 
-- `notebooks/house_price_prediction.ipynb`
-- `data/house_price_50k.csv`
+```text
+https://raw.githubusercontent.com/frederickmendez/HousePricePrediction/main/data/house_price_50k.csv
+```
 
-After GitHub publication, replace the notebook's `GITHUB_RAW_DATA_URL` placeholder with the raw dataset URL.
+In Colab, open the notebook link above, restart the runtime, then run all cells.
 
 ## Tableau Files
 
@@ -103,5 +104,5 @@ This repository supports an academic machine learning and visualisation assessme
 
 ## Links
 
-- GitHub repository: TODO: add GitHub repository URL after publication
-- Google Colab notebook: TODO: add Colab URL after GitHub publication
+- GitHub repository: https://github.com/frederickmendez/HousePricePrediction
+- Google Colab notebook: https://colab.research.google.com/github/frederickmendez/HousePricePrediction/blob/main/notebooks/house_price_prediction.ipynb

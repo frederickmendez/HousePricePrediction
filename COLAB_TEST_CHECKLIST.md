@@ -15,11 +15,16 @@ Do not mark Colab as passed until this has been run in Google Colab.
    - R-squared around 99.81%
 9. Confirm Tableau exports are created.
 10. Download the successfully executed notebook.
-11. After GitHub publication, set `GITHUB_RAW_DATA_URL` to the raw dataset URL.
-12. Open the future Colab link in an incognito/private browser and run all cells again.
+11. Open the GitHub Colab link in an incognito/private browser and run all cells again.
 
-GitHub raw URL placeholder:
+GitHub Colab link:
 
 ```text
-https://raw.githubusercontent.com/YOUR_USERNAME/house-price-prediction/main/data/house_price_50k.csv
+https://colab.research.google.com/github/frederickmendez/HousePricePrediction/blob/main/notebooks/house_price_prediction.ipynb
+```
+
+GitHub raw dataset URL:
+
+```text
+https://raw.githubusercontent.com/frederickmendez/HousePricePrediction/main/data/house_price_50k.csv
 ```
