@@ -1,0 +1,23 @@
+feature,importance,feature_clean
+area,0.9844442501883381,Area
+age,0.004122416623338839,Age
+location_premium,0.0021799639905537033,Location: Premium
+location_low,0.0021561511231075986,Location: Low
+bedrooms,0.0018264662253836678,Bedrooms
+distance,0.0011884653860090397,Distance
+income_level_high,0.0011529310414451783,Income: High
+crime_rate,0.0006095260950098076,Crime Rate
+location_medium,0.0004883516050488525,Location: Medium
+income_level_low,0.00044802310470688057,Income: Low
+population_density,0.00042073310716007515,Population Density
+bathrooms,0.0003302945649260279,Bathrooms
+floors,0.00011257955835700695,Floors
+garage,6.188888421656786e-05,Garage
+security,6.116816289326024e-05,Security
+parking,6.054032281439624e-05,Parking
+garden,6.046881965046564e-05,Garden
+income_level_mid,5.758587475349483e-05,Income: Mid
+shopping_mall_nearby,5.7060136956890435e-05,Shopping Mall Nearby
+school_nearby,5.4688129637973054e-05,School Nearby
+public_transport,5.402920255781115e-05,Public Transport
+hospital_nearby,5.2417853134258466e-05,Hospital Nearby
